@@ -1,8 +1,9 @@
 torch
 jupyter
 numpy
-numpyro
 scipy
 nltk
 matplotlib
 wordcloud
+docopt
+pandas
